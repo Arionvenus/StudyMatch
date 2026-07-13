@@ -11,3 +11,17 @@ body{
     color: blueviolet;
     border: 2px dashed rgb(207, 173, 61);
 }
+.box{
+    background-color: hotpink;
+    color: white;
+    padding: 30px;
+    width: 300px;
+    border: 10px solid black;
+}
+.container{
+    height: 100vh;
+    display:flex;
+    gap: 20px;
+    justify-content:center;
+    align-items: center;
+}
