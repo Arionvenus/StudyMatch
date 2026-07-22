@@ -77,3 +77,6 @@ everything bc its all very new but we will get there.
 - Flexbox works on the parent.
 - You can't center something vertically if there isn't any extra vertical space.
 
+### July 22 2026
+## Git Practice 
+practicing Git across two computers.
